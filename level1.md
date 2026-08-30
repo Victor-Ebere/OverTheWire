@@ -44,5 +44,5 @@ output: readme
 cat readme
 output: the password to move to level2
 
-! [Graphical solution to OTW bandit mode level1](./images/lv0-lv1.png)
+! [Graphical solution to OTW bandit mode level1](images/lv0-lv1.png)
 
